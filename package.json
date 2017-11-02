@@ -6,10 +6,10 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "dotenv": "^4.0.0",
-    "express": "^4.15.3",
     "irc-framework": "^2.9.1",
-    "skateboard": "^2.0.0"
+    "skateboard": "^2.0.0",
+    "fetch-retry": "^1.1.1",
+    "glitchup": "^1.2.0"
   },
   "engines": {
     "node": "8.x"
